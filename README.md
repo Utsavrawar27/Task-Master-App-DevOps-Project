@@ -58,7 +58,7 @@ Once the application is running, you can access it at `http://localhost:8080`. Y
 
 ## Contributing
 
-We welcome contributions to improve Task Master Pro. If you have a feature request, bug report, or improvement suggestion, please open an issue or submit a pull request.
+Welcome to contribute to improve Task Master App. If you have a feature request, bug report, or improvement suggestion, please open an issue or submit a pull request.
 
 ### Steps to Contribute
 
